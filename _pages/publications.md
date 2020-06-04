@@ -42,10 +42,6 @@ Wenqin Huangfu, Xueqi Li, Shuangchen Li, Xing Hu, **Peng Gu**, Yuan Xie.
 Mingyu Yan, Xing Hu, Shuangchen Li, Abanti Basak, Han Li, Xin Ma, Itir Akgun, Yujing Feng, **Peng  Gu**, Lei Deng, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan  Xie.
 *International Symposium on Microarchitecture (MICRO), 2019*
 
-* "“SCOPE: A Stochastic Computing Engine for DRAM-based In-situ Accelerator". 
-Shuangchen Li, Alvin Oliver Glova, Xing Hu, **Peng Gu**, Dimin Niu, Krishna T. Malladi, Hongzhong Zheng, Bob Bren-nan, Yuan Xie.
-*International Symposium on Microarchitecture (MICRO), 2018*
-
 * "SCOPE: A Stochastic Computing Engine for DRAM-based In-situ Accelerator". 
 Shuangchen Li, Alvin Oliver Glova, Xing Hu, **Peng Gu**, Dimin Niu, Krishna T. Malladi, Hongzhong Zheng, Bob Bren-nan, Yuan Xie.
 *International Symposium on Microarchitecture (MICRO), 2018*
@@ -92,3 +88,22 @@ Yu Wang, Tianqi Tang, Lixue Xia, Boxun Li, **Peng Gu**, Huazhong Yang, Hai Li, Y
 
 Patents
 ======
+
+* "Memory Lookup Computing Mechanisms". 
+Krishna Malladi, **Peng Gu**, Hongzhong Zheng, Robert Brennan.
+*US Patent App. 15/913,758.*
+
+* "Computing  Accelerator  Using  a  Lookup  Table". 
+**Peng  Gu**,  Krishna  Malladi,  Hongzhong  Zheng.
+*US Patent App. 15/916,196*
+
+* "“HBM Silicon Photonic TSV Architecture for Lookup Computing AI Accelerator". 
+**Peng Gu**, Krishna Malladi, Hongzhong Zheng.
+*US Patent App. 15/911,063*
+
+* "Scale-out High Bandwidth Memory System". 
+Krishna Malladi, Hongzhong Zheng, Dimin Niu, **Peng Gu**.
+*US Patent App. 16/194,219*
+
+
+

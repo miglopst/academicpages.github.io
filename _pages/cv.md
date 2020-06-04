@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electronic and Electrical Engineering, Tsinghua University, 2015
-* M.S. in Electrical and Computer Engineering, University of California - Santa Barbara, 2017
 * Ph.D in Electrical and Computer Engineering, University of California - Santa Barbara, 2021 (expected)
+* M.S. in Electrical and Computer Engineering, University of California - Santa Barbara, 2017
+* B.S. in Electronic and Electrical Engineering, Tsinghua University, 2015
 
-Work experience
+Professional Experience
 ======
 
 * 2015 - Now: Graduate Researcher
@@ -45,15 +45,6 @@ Work experience
   * Tsinghua University - Beijing, P.R.China
   * Nanoscale Integrated Circuits and Systems (NICS) Laboratory
   * Supervisor: [Professor Yu Wang](http://nics.ee.tsinghua.edu.cn/people/wangyu/)
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -63,15 +54,13 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* "[iPIM: Programmable In-Memory Image Processing Accelerator Using Near-Bank Architecture](https://www.youtube.com/watch?v=8YPCU3FHmOs&t=1s)", Virtual Conference Talk, 47th IEEE/ACM International Symposium on Computer Architecture (ISCA), 2020
+* "[NMTSim: Transaction-Command based Simulator for New Memory Technology Devices](https://www.youtube.com/watch?v=cX8ec69EqpE&list=PLsSbdutlPKONPqyURlIlQYJfXabbedngM&index=19)", Lightening Talk, Computer Architecutre Letter (CAL), 2020
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* UCSB ECE152A (Digial Design Principle) - Spring 2016
+* UCSB ECE152A (Digial Design Principle) - Spring 2017
   
 Academic Service
 ======

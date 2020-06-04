@@ -7,7 +7,7 @@ author_profile: true
 
 Journal Publications
 ======
-* "DLUX: aLUT-based Near-Bank Accelerator for Data Center Deep Learning Training Workloads". 
+* "DLUX: aLUT-based Near-Bank Accelerator for Data Center Deep Learning Training Workloads". [PDF](#link){: .btn .btn--info}
 **Peng Gu**, Xinfeng  Xie, Shuangchen Li, Krishna T. Malladi, Dimin Niu, Hongzhong Zheng, Yuan Xie.
 *Submitted*
 

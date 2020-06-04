@@ -12,7 +12,7 @@ Journal Publications
 *Submitted*
 
 * [CAL 2020](){: .btn .btn--primary .btn--small}
-"NMTSim:  Transaction-Command based Simulator for New Memory Technology Devices". 
+"NMTSim:  Transaction-Command based Simulator for New Memory Technology Devices".<br/>
 [PDF](http://miglopst.github.io/files/gu_cal2020.pdf){: .btn .btn--info}
 [Talk](https://www.youtube.com/watch?v=cX8ec69EqpE){: .btn .btn--success}
 [Slide](http://miglopst.github.io/files/gu_cal2020_slide.pdf){: .btn .btn--warning}

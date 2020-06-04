@@ -11,7 +11,7 @@ Journal Publications
 **Peng Gu**, Xinfeng  Xie, Shuangchen Li, Krishna T. Malladi, Dimin Niu, Hongzhong Zheng, Yuan Xie.
 *Submitted*
 
-* [CAL 2020]{: .btn .btn--primary .btn--small}
+* [CAL 2020](){: .btn .btn--primary .btn--small}
 "NMTSim:  Transaction-Command based Simulator for New Memory Technology Devices". 
 [PDF](http://miglopst.github.io/files/gu_cal2020.pdf){: .btn .btn--info}
 [Talk](https://www.youtube.com/watch?v=cX8ec69EqpE){: .btn .btn--success}

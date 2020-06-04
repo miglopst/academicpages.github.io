@@ -45,12 +45,6 @@ Professional Experience
   * Tsinghua University - Beijing, P.R.China
   * Nanoscale Integrated Circuits and Systems (NICS) Laboratory
   * Supervisor: [Professor Yu Wang](http://nics.ee.tsinghua.edu.cn/people/wangyu/)
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======

@@ -7,7 +7,7 @@ author_profile: true
 
 Journal Publications
 ======
-* "DLUX: aLUT-based Near-Bank Accelerator for Data Center Deep Learning Training Workloads". [PDF](#link){: .btn .btn--info}
+* "DLUX: aLUT-based Near-Bank Accelerator for Data Center Deep Learning Training Workloads". 
 **Peng Gu**, Xinfeng  Xie, Shuangchen Li, Krishna T. Malladi, Dimin Niu, Hongzhong Zheng, Yuan Xie.
 *Submitted*
 
@@ -31,6 +31,7 @@ Lixue Xia, **Peng Gu**, Boxun Li, Tianqi Tang, Xiling Yin, Wenqin Huangfu, Shime
 Refereed Conference Publications
 ======
 * "iPIM: Programmable In-Memory Image Processing Accelerator Using Near-Bank Architecture". 
+[PDF](http://miglopst.github.io/files/gu_isca2020.pdf){: .btn .btn--info}
 **Peng Gu**, Xinfeng Xie, Yufei Ding, Guoyang Chen, Weifeng Zhang, Dimin Niu, Yuan Xie.
 *International  Symposium  on  Computer  Architecture (ISCA), 2020*
 

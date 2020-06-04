@@ -125,10 +125,6 @@ Krishna Malladi, **Peng Gu**, Hongzhong Zheng, Robert Brennan.
 Krishna Malladi, Hongzhong Zheng, Dimin Niu, **Peng Gu**.
 *US Patent App. 16/194,219*
 
-* "Scale-out High Bandwidth Memory System". 
-Krishna Malladi, Hongzhong Zheng, Dimin Niu, **Peng Gu**.
-*US Patent App. 16/194,219*
-
 * "The method for parameter configuration of memristor crossed array". 
 Yu Wang, Boxun Li, **Peng Gu**, Tianqi Tang, Lixue Xia, Huazhong Yang.
 *CN Patent CN105,390,520B*

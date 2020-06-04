@@ -13,6 +13,7 @@ Journal Publications
 
 * "NMTSim:  Transaction-Command based Simulator for New Memory Technology Devices". 
 [PDF](http://miglopst.github.io/files/gu_cal2020.pdf){: .btn .btn--info}
+[TALK](https://www.youtube.com/watch?v=cX8ec69EqpE){: .btn .btn--success}
 **Peng Gu**, Benjamin Lim, Wenqin Huangfu, Krishna T. Malladi, Andrew Chang, Yuan Xie.
 *IEEE Computer Architecture Letters, 2020*
 
@@ -36,6 +37,7 @@ Refereed Conference Publications
 ======
 * "iPIM: Programmable In-Memory Image Processing Accelerator Using Near-Bank Architecture". 
 [PDF](http://miglopst.github.io/files/gu_isca2020.pdf){: .btn .btn--info}
+[TALK](https://www.youtube.com/watch?v=8YPCU3FHmOs&t=1s){: .btn .btn--success}
 **Peng Gu**, Xinfeng Xie, Yufei Ding, Guoyang Chen, Weifeng Zhang, Dimin Niu, Yuan Xie.
 *International  Symposium  on  Computer  Architecture (ISCA), 2020*
 
@@ -123,5 +125,14 @@ Krishna Malladi, **Peng Gu**, Hongzhong Zheng, Robert Brennan.
 Krishna Malladi, Hongzhong Zheng, Dimin Niu, **Peng Gu**.
 *US Patent App. 16/194,219*
 
+* "Scale-out High Bandwidth Memory System". 
+Krishna Malladi, Hongzhong Zheng, Dimin Niu, **Peng Gu**.
+*US Patent App. 16/194,219*
 
+* "The method for parameter configuration of memristor crossed array". 
+Yu Wang, Boxun Li, **Peng Gu**, Tianqi Tang, Lixue Xia, Huazhong Yang.
+*CN Patent CN105,390,520B*
 
+* "Digital-to-analogue mixed signal processing system for Imprecise computation". 
+Yu Wang, Boxun Li, Lixue Xia, **Peng Gu**, Tianqi Tang, Huazhong Yang.
+*CN Patent CN105,184,365B*

@@ -18,22 +18,22 @@ Education
 Work experience
 ======
 
-* Summer 2017/2018/2019: Memory System Accelerator Architecture Research Intern
-  * Samsung Semiconductor - San Jose, U.S.A
+* 2015 - Now: Graduate Researcher
+  * University of California, Santa Barbara (UCSB) - Santa Barbara, U.S.A
   * Scalable Energy Efficient Architecture Lab ([SEAL](https://seal.ece.ucsb.edu/))
   * Supervisor: [Professor Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/)
 
 * Summer 2017/2018/2019: Memory System Accelerator Architecture Research Intern
   * Samsung Semiconductor - San Jose, U.S.A
   * Memory Solution Lab
-  * Supervisor: [Dr. Naveen Muralimanohar](https://scholar.google.com/citations?user=Vgo17zYAAAAJ&hl=en)
+  * Supervisor: [Dr. Krishna T. Malladi](https://scholar.google.com/citations?user=Vgo17zYAAAAJ&hl=en)
 
 * Summer 2014: Accelerator Architecture Research Intern
   * Hewlett Packard Labs - Palo Alto, U.S.A
   * Supervisor: [Dr. Naveen Muralimanohar](https://scholar.google.com/citations?user=r7FU8aAAAAAJ&hl=en)
 
 * Summer 2014: Undergraduate Researcher
-  * University of California, Los Angeles - Los Angeles, U.S.A
+  * University of California, Los Angeles (UCLA) - Los Angeles, U.S.A
   * Design Automation Laboratory
   * Supervisor: [Professor Lei He](https://www.ee.ucla.edu/lei-he/)
 

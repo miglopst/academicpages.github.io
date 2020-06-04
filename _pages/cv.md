@@ -17,7 +17,6 @@ Education
 
 Professional Experience
 ======
-
 * 2015 - Now: Graduate Researcher
   * University of California, Santa Barbara (UCSB) - Santa Barbara, U.S.A
   * Scalable Energy Efficient Architecture Lab ([SEAL](https://seal.ece.ucsb.edu/))
@@ -50,7 +49,13 @@ Talks
 ======
 * "[iPIM: Programmable In-Memory Image Processing Accelerator Using Near-Bank Architecture](https://www.youtube.com/watch?v=8YPCU3FHmOs&t=1s)", Virtual Conference Talk, 47th IEEE/ACM International Symposium on Computer Architecture (ISCA), 2020
 * "[NMTSim: Transaction-Command based Simulator for New Memory Technology Devices](https://www.youtube.com/watch?v=cX8ec69EqpE&list=PLsSbdutlPKONPqyURlIlQYJfXabbedngM&index=19)", Lightening Talk, Computer Architecutre Letter (CAL), 2020
-  
+
+Awards and Honors
+======
+* A. Richard Newton Young Student Fellowship, Design Automation Conference, 2016
+* [Holbrook Foundation Fellowship](https://iee.ucsb.edu/fellowships/peng-gu), The Institute for Energy Efficiency, UC Santa Barbara, 2015
+* Excellent Undergraduate Thesis Award, Tsinghua University, 2015
+
 Teaching
 ======
 * UCSB ECE152A (Digial Design Principle) - Spring 2016

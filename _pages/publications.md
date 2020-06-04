@@ -5,12 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Journal Publications
+======
+* "DLUX: aLUT-based Near-Bank Accelerator for Data Center Deep Learning Training Workloads"
+**Peng Gu**, Xinfeng  Xie, Shuangchen Li, Krishna T. Malladi, Dimin Niu, Hongzhong Zheng, Yuan Xie.
+Submitted
 
-{% include base_path %}
+* "NMTSim:  Transaction-Command based Simulator for New Memory Technology Devices"
+**Peng Gu**, Benjamin Lim, Wenqin Huangfu, Krishna T. Malladi, Andrew Chang, Yuan Xie.
+IEEE Computer Architecture Letters, 2020
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+Refereed Conference Publications
+======
+
+Patents
+======

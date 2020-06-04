@@ -27,7 +27,7 @@ Professional Experience
   * Memory Solution Lab
   * Supervisor: [Dr. Krishna T. Malladi](https://scholar.google.com/citations?user=Vgo17zYAAAAJ&hl=en)
 
-* Summer 2014: Accelerator Architecture Research Intern
+* Summer 2016: Accelerator Architecture Research Intern
   * Hewlett Packard Labs - Palo Alto, U.S.A
   * Supervisor: [Dr. Naveen Muralimanohar](https://scholar.google.com/citations?user=r7FU8aAAAAAJ&hl=en)
 

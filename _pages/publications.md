@@ -90,7 +90,7 @@ Lixue Xia, Boxun Li, Tianqi Tang, **Peng Gu**, Xiling Yin, Wenqin Huangfu, Pai-y
 *Proceedings of IEEE/ACM Design Automation and Test in Europe (DATE), 2016*
 
 * "Technological Exploration of RRAM Crossbar Array for Matrix-vector Multiplication". 
-[PDF](http://miglopst.github.io/files/gu_asplos2015.pdf){: .btn .btn--info}
+[PDF](http://miglopst.github.io/files/gu_aspdac2015.pdf){: .btn .btn--info}
 **Peng Gu**, Boxun Li, Tianqi Tang, Shimeng Yu, Yu Cao, Yu Wang, Huazhong Yang.
 *Proceedings of the 20th Asia and South Pacific Design Automation Conference (ASP-DAC), 2015*
 

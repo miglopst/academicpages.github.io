@@ -7,7 +7,7 @@ author_profile: true
 
 Journal Publications
 ======
-* "DLUX: aLUT-based Near-Bank Accelerator for Data Center Deep Learning Training Workloads".<br/>
+* "DLUX: a LUT-based Near-Bank Accelerator for Data Center Deep Learning Training Workloads".<br/>
 **Peng Gu**, Xinfeng  Xie, Shuangchen Li, Krishna T. Malladi, Dimin Niu, Hongzhong Zheng, Yuan Xie.
 *Submitted*
 
@@ -20,7 +20,7 @@ Journal Publications
 [Slide](http://miglopst.github.io/files/gu_cal2020_slide.pdf){: .btn .btn--warning}
 
 * [CAL 2019](){: .btn .btn--primary .btn--small}
-"NNBench-X: Benchmarking and UnderstandingNeural Network Workloads for Accelerator Designs".<br/>
+"NNBench-X: Benchmarking and Understanding Neural Network Workloads for Accelerator Designs".<br/>
 Xinfeng Xie, Xing Hu, **Peng Gu**, Shuangchen Li, Yu Ji, and Yuan Xie.
 *IEEE Computer Architecture Letters, 2019*
 [PDF](http://miglopst.github.io/files/xie_cal2019.pdf){: .btn .btn--info}
@@ -49,13 +49,13 @@ Refereed Conference Publications
 [Slide](http://miglopst.github.io/files/gu_isca2020_slide.pdf){: .btn .btn--warning}
 
 * [MICRO 2019](){: .btn .btn--primary .btn--small}
-"MEDAL: Scalable DIMM based Near DataProcessing Accelerator for DNA Seeding Algorithm".<br/>
+"MEDAL: Scalable DIMM based Near Data Processing Accelerator for DNA Seeding Algorithm".<br/>
 Wenqin Huangfu, Xueqi Li, Shuangchen Li, Xing Hu, **Peng Gu**, Yuan Xie.
 *International Symposium on Microarchitecture (MICRO), 2019*
 [PDF](http://miglopst.github.io/files/huangfu_micro2019.pdf){: .btn .btn--info}
 
 * [MICRO 2019](){: .btn .btn--primary .btn--small}
-"Alleviating  Irregularity  in  Graph  Analytics  Acceleration:  a Hardware/Software Co-Design Approach".<br/>
+"Alleviating  Irregularity  in  Graph  Analytics  Acceleration: a Hardware/Software Co-Design Approach".<br/>
 Mingyu Yan, Xing Hu, Shuangchen Li, Abanti Basak, Han Li, Xin Ma, Itir Akgun, Yujing Feng, **Peng  Gu**, Lei Deng, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan  Xie.
 *International Symposium on Microarchitecture (MICRO), 2019*
 [PDF](http://miglopst.github.io/files/yan_micro2019.pdf){: .btn .btn--info}
@@ -67,7 +67,7 @@ Shuangchen Li, Alvin Oliver Glova, Xing Hu, **Peng Gu**, Dimin Niu, Krishna T. M
 [PDF](http://miglopst.github.io/files/li_micro2018.pdf){: .btn .btn--info}
 
 * [AsianHOST 2018](){: .btn .btn--primary .btn--small}
-"Cost-efficient 3D Integration to Hinder ReverseEngineering During and After Manufacturing".<br/>
+"Cost-efficient 3D Integration to Hinder Reverse Engineering During and After Manufacturing".<br/>
 **Peng Gu**, Dylan Stow, Prashansa Mukim, Shuangchen Li, Yuan Xie.
 *Asian Hardware Oriented Security and Trust Symposium (Asian HOST), 2018*
 [PDF](http://miglopst.github.io/files/gu_asianhost2018.pdf){: .btn .btn--info}
@@ -93,7 +93,7 @@ Jaya Dofe, **Peng Gu**, Dylan Stow, Qiaoyan Yu, Eren Kursun, Yuan Xie.
 [PDF](http://miglopst.github.io/files/gu_glvlsi2016.pdf){: .btn .btn--info}
 
 * [ICCAD 2016](){: .btn .btn--primary .btn--small}
-"NVSim-CAM:  A  Circuit-Level  Simulator  for  Emerging Nonvolatile  Memory  based  Content-Addressable  Memory".<br/>
+"NVSim-CAM: A Circuit-Level Simulator for Emerging Nonvolatile Memory based Content-Addressable Memory".<br/>
 Shuangchen Li,  Liu  Liu, **Peng  Gu**,  Cong  Xu,  Yuan  Xie.
 *Proceedings of the 35th International Conference On Computer Aided Design (ICCAD), 2016*
 [PDF](http://miglopst.github.io/files/li_iccad2016.pdf){: .btn .btn--info}

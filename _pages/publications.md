@@ -45,7 +45,7 @@ Refereed Conference Publications
 **Peng Gu**, Xinfeng Xie, Yufei Ding, Guoyang Chen, Weifeng Zhang, Dimin Niu, Yuan Xie.
 *International  Symposium  on  Computer  Architecture (ISCA), 2020*
 [PDF](http://miglopst.github.io/files/gu_isca2020.pdf){: .btn .btn--info}
-[TALK](https://www.youtube.com/watch?v=8YPCU3FHmOs&t=1s){: .btn .btn--success}
+[Talk](https://www.youtube.com/watch?v=8YPCU3FHmOs&t=1s){: .btn .btn--success}
 [Slide](http://miglopst.github.io/files/gu_isca2020_slide.pdf){: .btn .btn--warning}
 
 * [MICRO 2019](){: .btn .btn--primary .btn--small}

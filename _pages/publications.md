@@ -42,7 +42,7 @@ Refereed Conference Publications
 ======
 * [ISCA 2020](){: .btn .btn--primary .btn--small}
 "iPIM: Programmable In-Memory Image Processing Accelerator Using Near-Bank Architecture".<br/>
-**Peng Gu**, Xinfeng Xie, Yufei Ding, Guoyang Chen, Weifeng Zhang, Dimin Niu, Yuan Xie.
+**Peng Gu**<sup>*</sup>, Xinfeng Xie<sup>*</sup>, Yufei Ding, Guoyang Chen, Weifeng Zhang, Dimin Niu, Yuan Xie. (* equal contribution)
 *International  Symposium  on  Computer  Architecture (ISCA), 2020*
 [PDF](http://miglopst.github.io/files/gu_isca2020.pdf){: .btn .btn--info}
 [Talk](https://www.youtube.com/watch?v=8YPCU3FHmOs&t=1s){: .btn .btn--success}

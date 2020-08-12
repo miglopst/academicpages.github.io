@@ -11,6 +11,11 @@ Journal Publications
 **Peng Gu**, Xinfeng  Xie, Shuangchen Li, Krishna T. Malladi, Dimin Niu, Hongzhong Zheng, Yuan Xie.
 *Submitted*
 
+* [TACO 2020](){: .btn .btn--primary .btn--small}
+"NNBench-X: A Benchmarking Methodology for Neural Network Accelerator Designs".<br/>
+Xinfeng Xie, Xing Hu, **Peng Gu**, Shuangchen Li, Yu Ji, and Yuan Xie.
+*ACM Transactions on Architecture and Code Optimization, 2020*
+
 * [CAL 2020](){: .btn .btn--primary .btn--small}
 "NMTSim:  Transaction-Command based Simulator for New Memory Technology Devices".<br/>
 **Peng Gu**, Benjamin Lim, Wenqin Huangfu, Krishna T. Malladi, Andrew Chang, Yuan Xie.
@@ -47,6 +52,11 @@ Refereed Conference Publications
 [PDF](http://miglopst.github.io/files/gu_isca2020.pdf){: .btn .btn--info}
 [Talk](https://www.youtube.com/watch?v=8YPCU3FHmOs&t=1s){: .btn .btn--success}
 [Slide](http://miglopst.github.io/files/gu_isca2020_slide.pdf){: .btn .btn--warning}
+
+* [ICCAD 2020](){: .btn .btn--primary .btn--small}
+"NEST: DIMM based Near-Data-Processing Accelerator for K-mer Counting".<br/>
+Wenqin Huangfu, Krishna T. Malladi, Shuangchen Li, **Peng  Gu**, Yuan  Xie.
+*Proceedings of the 39th International Conference On Computer Aided Design (ICCAD), 2020*
 
 * [MICRO 2019](){: .btn .btn--primary .btn--small}
 "MEDAL: Scalable DIMM based Near Data Processing Accelerator for DNA Seeding Algorithm".<br/>

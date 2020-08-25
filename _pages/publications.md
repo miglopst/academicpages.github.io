@@ -7,19 +7,20 @@ author_profile: true
 
 Journal Publications
 ======
-* "DLUX: a LUT-based Near-Bank Accelerator for Data Center Deep Learning Training Workloads".<br/>
+* [TCAD 2020](){: .btn .btn--primary .btn--small}
+"DLUX: a LUT-based Near-Bank Accelerator for Data Center Deep Learning Training Workloads".<br/>
 **Peng Gu**, Xinfeng  Xie, Shuangchen Li, Krishna T. Malladi, Dimin Niu, Hongzhong Zheng, Yuan Xie.
-*Submitted*
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020*
 
 * [TACO 2020](){: .btn .btn--primary .btn--small}
 "NNBench-X: A Benchmarking Methodology for Neural Network Accelerator Designs".<br/>
 Xinfeng Xie, Xing Hu, **Peng Gu**, Shuangchen Li, Yu Ji, and Yuan Xie.
-*ACM Transactions on Architecture and Code Optimization, 2020*
+*ACM Transactions on Architecture and Code Optimization (TACO), 2020*
 
 * [CAL 2020](){: .btn .btn--primary .btn--small}
 "NMTSim:  Transaction-Command based Simulator for New Memory Technology Devices".<br/>
 **Peng Gu**, Benjamin Lim, Wenqin Huangfu, Krishna T. Malladi, Andrew Chang, Yuan Xie.
-*IEEE Computer Architecture Letters, 2020*
+*IEEE Computer Architecture Letters (CAL), 2020*
 [PDF](http://miglopst.github.io/files/gu_cal2020.pdf){: .btn .btn--info}
 [Talk](https://www.youtube.com/watch?v=cX8ec69EqpE){: .btn .btn--success}
 [Slide](http://miglopst.github.io/files/gu_cal2020_slide.pdf){: .btn .btn--warning}
@@ -27,7 +28,7 @@ Xinfeng Xie, Xing Hu, **Peng Gu**, Shuangchen Li, Yu Ji, and Yuan Xie.
 * [CAL 2019](){: .btn .btn--primary .btn--small}
 "NNBench-X: Benchmarking and Understanding Neural Network Workloads for Accelerator Designs".<br/>
 Xinfeng Xie, Xing Hu, **Peng Gu**, Shuangchen Li, Yu Ji, and Yuan Xie.
-*IEEE Computer Architecture Letters, 2019*
+*IEEE Computer Architecture Letters (CAL), 2019*
 [PDF](http://miglopst.github.io/files/xie_cal2019.pdf){: .btn .btn--info}
 
 * [JCST 2016](){: .btn .btn--primary .btn--small}

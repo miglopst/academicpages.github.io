@@ -34,7 +34,7 @@ Xinfeng Xie, Xing Hu, **Peng Gu**, Shuangchen Li, Yu Ji, and Yuan Xie.
 * [JCST 2016](){: .btn .btn--primary .btn--small}
 "Technological Exploration of RRAM Crossbar Array for Matrix-vector Multiplication".<br/>
 Lixue Xia, **Peng Gu**, Boxun Li, Tianqi Tang, Xiling Yin, Wenqin Huangfu, Shimeng Yu, Yu Cao, Yu Wang, Huazhong Yang.
-*Journal of Computer Scienceand Technology (JCST), 2016*
+*Journal of Computer Science and Technology (JCST), 2016*
 [PDF](http://miglopst.github.io/files/xia_jcst2016.pdf){: .btn .btn--info}
 
 * [TCAD 2015](){: .btn .btn--primary .btn--small}

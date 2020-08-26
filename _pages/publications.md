@@ -31,13 +31,13 @@ Xinfeng Xie, Xing Hu, **Peng Gu**, Shuangchen Li, Yu Ji, and Yuan Xie.
 *IEEE Computer Architecture Letters (CAL), 2019*
 [PDF](http://miglopst.github.io/files/xie_cal2019.pdf){: .btn .btn--info}
 
-* [IEEE Design & Test 2016](){: .btn .btn--primary .btn--small}
+* [JCST 2016](){: .btn .btn--primary .btn--small}
 "Technological Exploration of RRAM Crossbar Array for Matrix-vector Multiplication".<br/>
 Lixue Xia, **Peng Gu**, Boxun Li, Tianqi Tang, Xiling Yin, Wenqin Huangfu, Shimeng Yu, Yu Cao, Yu Wang, Huazhong Yang.
 *Journal of Computer Science and Technology (JCST), 2016*
 [PDF](http://miglopst.github.io/files/xia_jcst2016.pdf){: .btn .btn--info}
 
-* [JCST 2016](){: .btn .btn--primary .btn--small}
+* [IEEE Design & Test 2016](){: .btn .btn--primary .btn--small}
 "Exploring the Precision Limitation for RRAM-Based Analog Approximate Computing".<br/>
 Boxun Li, **Peng Gu**, Yu Wang, Huazhong Yang.
 *IEEE Design & Test of Computers, 2016*

@@ -11,6 +11,7 @@ Journal Publications
 "DLUX: a LUT-based Near-Bank Accelerator for Data Center Deep Learning Training Workloads".<br/>
 **Peng Gu**, Xinfeng  Xie, Shuangchen Li, Krishna T. Malladi, Dimin Niu, Hongzhong Zheng, Yuan Xie.
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020*
+[PDF](http://miglopst.github.io/files/gu_tcad2020.pdf){: .btn .btn--info}
 
 * [TACO 2020](){: .btn .btn--primary .btn--small}
 "NNBench-X: A Benchmarking Methodology for Neural Network Accelerator Designs".<br/>

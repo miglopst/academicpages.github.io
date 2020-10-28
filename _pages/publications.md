@@ -53,6 +53,11 @@ Boxun Li, **Peng Gu**, Yi Shan, Yu Wang, Yiran Chen, Huazhong Yan.
 
 Refereed Conference Publications
 ======
+* [HPCA 2021](){: .btn .btn--primary .btn--small}
+"SpaceA: Sparse Matrix Vector Multiplication on Processing-in-Memory Accelerator".<br/>
+Xinfeng Xie, Zheng Liang, **Peng  Gu**, Abanti Basak, Lei Deng, Ling Liang, Xing Hu, Yuan  Xie.
+*to appear in Proceedings of the 27th IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2021*
+
 * [ISCA 2020](){: .btn .btn--primary .btn--small}
 "iPIM: Programmable In-Memory Image Processing Accelerator Using Near-Bank Architecture".<br/>
 **Peng Gu**<sup>+</sup>, Xinfeng Xie<sup>+</sup>, Yufei Ding, Guoyang Chen, Weifeng Zhang, Dimin Niu, Yuan Xie. (+ equal contribution)

@@ -54,7 +54,7 @@ Talks
 
 Awards and Honors
 ======
-* [SIGMICRO ACM Student Research Competition First Place (Graduate)](https://www.microarch.org/micro53/program/src.php), MICRO, 2020
+* [ACM Student Research Competition First Place (Graduate)](https://www.microarch.org/micro53/program/src.php), MICRO, 2020
 * A. Richard Newton Young Student Fellowship, Design Automation Conference, 2016
 * [Holbrook Foundation Fellowship](https://iee.ucsb.edu/fellowships/peng-gu), The Institute for Energy Efficiency, UC Santa Barbara, 2015
 * Excellent Undergraduate Thesis Award, Tsinghua University, 2015

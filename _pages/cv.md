@@ -13,13 +13,13 @@ You can download my CV using this [link](http://miglopst.github.io/files/CV_peng
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, University of California - Santa Barbara, 2021 (expected)
+* Ph.D in Electrical and Computer Engineering, University of California - Santa Barbara, 2021
 * M.S. in Electrical and Computer Engineering, University of California - Santa Barbara, 2017
 * B.S. in Electronic and Electrical Engineering, Tsinghua University, 2015
 
 Professional Experience
 ======
-* 2015 - Now: Graduate Researcher
+* 2015 - 2021
   * University of California, Santa Barbara (UCSB) - Santa Barbara, U.S.A
   * Scalable Energy Efficient Architecture Lab ([SEAL](https://seal.ece.ucsb.edu/))
   * Supervisor: [Professor Yuan Xie](https://www.ece.ucsb.edu/~yuanxie/)

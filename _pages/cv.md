@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-You can download my CV using this [link](http://miglopst.github.io/files/CV_penggu_09152020.pdf).
-
 Education
 ======
 * Ph.D in Electrical and Computer Engineering, University of California - Santa Barbara, 2021

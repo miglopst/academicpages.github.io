@@ -19,7 +19,8 @@ Education
 
 Professional Experience
 ======
-* 2021 - Now: Google
+* 2021 - Now: Software Engineer
+  * Google, Sunnyvale, U.S.A
 * 2015 - 2021: Graduate Researcher
   * University of California, Santa Barbara (UCSB) - Santa Barbara, U.S.A
   * Scalable Energy Efficient Architecture Lab ([SEAL](https://seal.ece.ucsb.edu/))

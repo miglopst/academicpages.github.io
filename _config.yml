@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Peng Gu"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student at Univeristy of California, Santa Barbara"
-  location         : "Santa Barbara, California"
+  bio              : "Software Engineer at Google"
+  location         : "Sunnyvale, California"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=YK30luEAAAAJ&hl=en"
-  email            : "peng_gu@ucsb.edu"
+  email            : ""
   researchgate     : "https://www.researchgate.net/profile/Peng_Gu4"
   uri              :
   bitbucket        :
